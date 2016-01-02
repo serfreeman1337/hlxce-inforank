@@ -1,0 +1,9 @@
+[en]
+IR_GOOD = ^1[^4HLXCE^1] ^3Congratulations, you have advanced ^4%d^3 place(s) !!^1
+IR_BAD = ^1[^4HLXCE^1] ^3Noob, you have gone down ^4%d^3 place(s) !!^1
+IR_RANK = ^1[^4HLXCE^1] Your rank : ^4%d^1 of ^4%d^1 with ^4%d^1 skillpoints.
+
+[ru]
+IR_GOOD = ^1[^4HLXCE^1] ^3Вы поднялись на ^4%d^3 позиций в статистике !!^1
+IR_BAD = ^1[^4HLXCE^1] ^3Вы опустились на ^4%d^3 позиций в статистике !!^1
+IR_RANK = ^1[^4HLXCE^1] Вы занимаете ^4%d^1-е место из ^4%d^1 имея ^4%d^1 скиллпоинтов.
